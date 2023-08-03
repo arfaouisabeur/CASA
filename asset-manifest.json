@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/arfaouisabeur/CASA/static/css/main.8b06dde7.css",
+    "main.js": "/arfaouisabeur/CASA/static/js/main.c421d2ee.js",
+    "static/media/sdf.png": "/arfaouisabeur/CASA/static/media/sdf.23884a9ab4f117bdd56f.png",
+    "static/media/Rectangle 24.png": "/arfaouisabeur/CASA/static/media/Rectangle 24.403e2e40db6f87a98dc4.png",
+    "static/media/Pain.png": "/arfaouisabeur/CASA/static/media/Pain.a998ebb863344f03e90b.png",
+    "static/media/Salade.png": "/arfaouisabeur/CASA/static/media/Salade.b12e893776ad99270049.png",
+    "static/media/Hrissa.png": "/arfaouisabeur/CASA/static/media/Hrissa.64acf4570d4529587201.png",
+    "static/media/Fromage.png": "/arfaouisabeur/CASA/static/media/Fromage.d4b4c28bb58d97382967.png",
+    "static/media/Makarouna.png": "/arfaouisabeur/CASA/static/media/Makarouna.43abf6012958cae3f461.png",
+    "static/media/Sardina.png": "/arfaouisabeur/CASA/static/media/Sardina.16ecc59abde3b122dc5b.png",
+    "static/media/Maka.png": "/arfaouisabeur/CASA/static/media/Maka.644f8cc53ad3df5a21ab.png",
+    "static/media/image 36.png": "/arfaouisabeur/CASA/static/media/image 36.75eda52352d20e11afd0.png",
+    "static/media/b.png": "/arfaouisabeur/CASA/static/media/b.501a314c07408ea19a5a.png",
+    "static/media/Eau.png": "/arfaouisabeur/CASA/static/media/Eau.d736843ab8c3d6b47a50.png",
+    "static/media/Milk.png": "/arfaouisabeur/CASA/static/media/Milk.0a79281ce13ee872204e.png",
+    "static/media/ss.png": "/arfaouisabeur/CASA/static/media/ss.90d1c4d5f5c585e1fcbf.png",
+    "static/media/a.png": "/arfaouisabeur/CASA/static/media/a.010709f381c0233cb510.png",
+    "static/media/Azonix.ttf": "/arfaouisabeur/CASA/static/media/Azonix.ad0300b2a9b40f2d1a51.ttf",
+    "index.html": "/arfaouisabeur/CASA/index.html",
+    "main.8b06dde7.css.map": "/arfaouisabeur/CASA/static/css/main.8b06dde7.css.map",
+    "main.c421d2ee.js.map": "/arfaouisabeur/CASA/static/js/main.c421d2ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b06dde7.css",
+    "static/js/main.c421d2ee.js"
+  ]
+}

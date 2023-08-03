@@ -1,0 +1,33 @@
+.aab{
+    background-color: #0D0235 !important;
+    padding: 30px;
+    color: white;
+}
+.bbk{
+    background-color: #f7f6fa;
+    border-top-right-radius: 50px;
+    color: rgb(1, 1, 1);
+}
+.aab .carousel-indicators .active {
+    background-color: #CD00FF !important;
+    height: 20px;
+}
+.aab .carousel-indicators [data-bs-target] {
+    box-sizing: content-box;
+    flex: 0 1 auto;
+    width: 25px !important;
+    border-radius: 100%;
+    height: 25px !important;
+    padding: 0;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: rgb(170, 170, 170) ;
+    background-clip: padding-box;
+    border: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    opacity: 0.5;
+    transition: opacity 0.6s ease;
+}

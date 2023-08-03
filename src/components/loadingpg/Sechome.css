@@ -1,0 +1,110 @@
+.menui{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content:space-around;
+    align-items: center;
+    background-color: #f5f4f9 ;
+}
+.countdowni-ite {
+    font-size: 55px;
+    margin-top: 65px;
+    margin-bottom: 60px;
+}
+.m{
+    width: 210px;
+    height: 200px;
+    padding: 12px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #0D0235;
+    border-bottom-left-radius: 50px;
+    color: aliceblue;
+    font-family: azonix;
+    font-size: xx-large;
+    font-weight: 300;
+
+}
+.ti{
+    color: #CD00FF;
+    font-size: xxx-large;
+}
+@media screen and (max-width: 1050px) {
+    .countdowni-ite {
+        font-size: 46px;
+        margin-top: 65px;
+        margin-bottom: 60px;
+    }
+    .m{
+        width: 160px;
+        height: 150px;
+        padding: 12px;
+        background-color: #0D0235;
+        border-bottom-left-radius: 50px;
+        color: aliceblue;
+        font-size: x-large;
+        font-weight: 300;
+    
+    }.ti{
+        color: #CD00FF;
+        font-size: xx-large;
+    }}
+    @media screen and (max-width: 810px) {
+        .m{
+            width: 130px;
+            height: 120px;
+            padding: 12px;
+            background-color: #0D0235;
+            border-bottom-left-radius: 50px;
+            color: aliceblue;
+            font-size: large;
+            
+            font-weight: 300;
+        
+        }.ti{
+            color: #CD00FF;
+            font-size: x-large;
+        }}
+        @media screen and (max-width: 700px) {
+            .m{
+                width: 100px;
+                height: 90px;
+                padding: 12px;
+                background-color: #0D0235;
+                border-bottom-left-radius: 50px;
+                color: aliceblue;
+                font-size: 13px;
+                font-weight: 300;
+            
+            }
+           
+.countdowni-ite {
+    font-size: 33px;
+    margin-top: 65px;
+    margin-bottom: 60px;
+}
+            .ti{
+                color: #CD00FF;
+                font-size: large;
+            }}
+            @media screen and (max-width: 415px) {
+                .countdowni-ite {
+                    font-size: 17px;
+                    margin-top: 51px;
+                    margin-bottom: 37px;
+                    margin-inline: 10px;
+                }
+                .m {
+                    width: 85px;
+                    height: 76px;
+                    padding: 9px;
+                    background-color: #0D0235;
+                    border-bottom-left-radius: 50px;
+                    color: aliceblue;
+                    font-size: 12px;
+                    font-weight: 300 !important;
+                }.ti{
+                    color: #CD00FF;
+                    font-size: large;
+                }}

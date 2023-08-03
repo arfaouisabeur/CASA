@@ -1,0 +1,58 @@
+.mapp{
+    background-color: #0d023513;
+}
+.tit{
+    padding-top: 150px;
+    font-size: 50px;
+}
+.imap{
+    margin-top: 60px;
+    margin-bottom: 70px;
+    height: 1000px;
+}
+@media screen and (max-width: 800px) {
+    .tit{
+        padding-top: 150px;
+        font-size: 40px;
+    }
+    .imap{
+        margin-top: 60px;
+        margin-bottom: 70px;
+        height: 800px;
+    }
+}
+@media screen and (max-width: 650px) {
+    .tit{
+        padding-top: 150px;
+        font-size: 30px;
+    }
+    .imap{
+        margin-top: 60px;
+        margin-bottom: 70px;
+        height: 650px;
+    }
+}
+@media screen and (max-width: 420px) {
+    .tit {
+        padding-top: 69px;
+        font-size: 22px;
+    }
+    .imap{
+        margin-top: 60px;
+        margin-bottom: 70px;
+        height: 400px;
+        margin-left: 20px;
+    }
+}
+@media screen and (max-width: 343px) {
+    .tit{
+        padding-top: 75px;
+        font-size: 16px;
+    }
+    .imap{
+        margin-top: 60px;
+        margin-bottom: 70px;
+        height: 300px;
+        margin-left: 20px;
+    }
+}

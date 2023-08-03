@@ -1,0 +1,40 @@
+.b {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  background: url(./sdf.png) no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.zeb {
+  font-size: 60px;
+  font-family: azonix;
+  font-weight: 700;
+  line-height: 90.72px;
+  margin-top: 130px !important;
+  color: aliceblue;
+}
+.asba {
+  font-size: 40px;
+  color: #6ce6dd;
+  font-weight: 500;
+  line-height: 90px;
+}
+@media screen and (max-width: 415px) {
+  .zeb {
+    font-size: 40px;
+    font-family: azonix;
+    font-weight: 700;
+    line-height: 90.72px;
+    margin-inline: 20px;
+    margin-top: 130px !important;
+  }
+  *.asba {
+    font-size: 31px;
+    color: #6ce6dd;
+    font-weight: 500;
+    line-height: 90px;
+}
+}

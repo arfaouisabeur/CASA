@@ -1,0 +1,133 @@
+.aa{
+    background: #0D0235;
+    padding: 20px;
+}
+.tt{
+    height: 360px;
+    width: 360px;
+    margin-bottom: 35px;
+    margin-top: 35px;
+}
+.cci{
+    margin-right: 77px;
+}
+.bb{
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.ai{
+    color: aliceblue;
+    font-size: xx-large;
+    margin-bottom: 2rem;
+}
+h1{
+    margin-bottom: 0.7em;}
+.yi{
+    color: aliceblue;
+    text-align:left;
+    margin-bottom: 2rem;
+    font-size: 34px;
+    font-family: 'Poppins', sans-serif;
+}
+@media screen and (max-width: 1325px) {
+    .yi{
+        color: aliceblue;
+        text-align:left;
+        margin-bottom: 2rem;
+        font-size: 29px;
+    }
+    .tt{
+        height: 345px;
+        width: 345px;
+        margin-bottom: 35px
+    }
+}
+@media screen and (max-width: 1133px) {
+    .yi{
+        color: aliceblue;
+        text-align:left;
+        margin-bottom: 2rem;
+        font-size: 24px;
+    }
+    .tt{
+        height: 328px;
+        width: 328px;
+        margin-bottom: 35px;
+    }
+}
+@media screen and (max-width: 934px) {
+    .yi{
+        color: aliceblue;
+        text-align:left;
+        margin-bottom: 2rem;
+        font-size: 21px;
+    }
+    .tt{
+        height: 287px;
+        width: 283px;
+        margin-bottom: 35px
+    }
+}
+@media screen and (max-width: 844px) {
+    .yi{
+        color: aliceblue;
+        text-align:left;
+        margin-bottom: 2rem;
+        font-size: 18px;
+    }
+    .tt{
+        height: 260px;
+        width: 260px;
+        margin-bottom: 35px
+    }
+}
+@media screen and (max-width: 710px) {
+    .yi{
+        color: aliceblue;
+        text-align:left;
+        margin-bottom: 2rem;
+        font-size: 16px;
+    }
+    .tt{
+        height: 240px;
+        width: 240px;
+        margin-bottom: 35px
+    }
+}
+@media screen and (max-width: 415px) {
+    
+    .tt{
+        height: 150px;
+        width: 150px;
+        margin-bottom: 35px;
+    }
+    .yi {
+        color: aliceblue;
+        text-align: left;
+        margin-bottom: 2rem;
+        font-size: 13px;
+        width: 150px;
+        margin-left: 17px;
+    }
+    .bb {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-left: 50px;
+        margin-right: 50px;
+        align-items: flex-end;
+    }
+}
+@media screen and (max-width: 380px){
+.tt {
+    height: 142px;
+    width: 142px;
+    margin-bottom: 35px;
+    margin-right: 22px;
+}}

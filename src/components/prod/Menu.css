@@ -1,0 +1,216 @@
+.menu {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #0d023513;
+  }
+  .klm {
+    margin-top: -3px;
+    font-size: 31px;
+    padding: 18px;
+    border-radius: 4px;
+    border: none;
+    margin-bottom: 85px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+  .menu .menuTitle {
+    font-family: cursive;
+    font-size: 60px;
+    margin-top: 28px;
+}
+  
+  .menuList {
+    width: 70vw;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
+    margin: auto;
+    margin-bottom: 95px !important;
+    
+  }
+  
+  
+  .menuItem {
+    border-radius: 15px;
+    width: 300px;
+    height: 350px;
+    margin: 30px;
+    margin-bottom: 100px;
+
+  }
+  .jk{
+    margin-top: 32px;
+    margin-bottom: 20px;
+  }
+  .counter{
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    font-size: 21px;
+    background-color:#07011e2b;
+    height: 150px !important;
+    padding: 15px;
+    color: #fff;
+    margin-right: -26px;
+    padding-inline:45px !important;
+    width: 100px;
+
+  }
+  .aaz{
+    color:#fff!important ;
+    background-color: #0d023513;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .aabz{
+    height: 10px !important;
+    margin: 0px !important;
+    padding: 5px;
+    background-color: rgba(5, 4, 4, 0);
+    margin-left: 10px;
+  }
+  .menuItem div {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: 320px;
+    height: 320px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  
+  .menuItem h1,
+  .menuItem p {
+    margin-left: 10px;
+  }
+  
+  @media only screen and (max-width: 1500px) {
+    .menuList {
+      grid-template-columns: 1fr 1fr;
+      margin: auto;
+      
+    }
+  }
+  
+  @media only screen and (max-width: 1000px) {
+    .menuList {
+      grid-template-columns: 1fr;
+      margin: auto;
+    }
+  }
+  @media only screen and (max-width: 415px) {
+    .menuList {
+      grid-template-columns:  1fr;
+      margin: auto;
+    }
+    .menuItem div {
+      border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+      width: 220px;
+      height: 220px;
+      margin-bottom: 83px !important;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+
+.menuItem {
+  border-radius: 15px;
+  width: 200px;
+  height: 350px;
+  margin: 30px;
+  margin-bottom: -18px;
+  margin-left: -8px !important;
+}
+.jk{
+  margin-top: 32px ;
+  margin-bottom: 20px !important;
+}
+.counter {
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  font-size: 19px;
+  background-color: #0d023523;
+  height: 150px !important;
+  padding: 14px;
+  color: #fff;
+  margin-right: -80px;
+  padding-inline: 28px !important;
+  margin-left: -246px;
+  width: 100px;
+}
+.menu .menuTitle {
+  font-family: cursive;
+  font-size: 53px;
+  margin-top: 28px;
+}
+.jkContainer {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 55px;
+}
+.hoverParagraph {
+  display: none;
+  background-color: rgba(0, 0, 0, 1.5);
+  color: #fff;
+  width: 220px !important;
+  height: 220px !important;
+  font-size: 35px !important;
+  padding-left: 1px !important;
+  padding-top: 65px !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+ margin-top: 31px !important;
+ margin-left: -2px !important;
+  text-align: center;
+  opacity: 0.9;
+  pointer-events: none;
+  border-top-right-radius: 47px !important;
+  border-bottom-left-radius: 47px !important;
+  
+}
+
+.jkContainer:hover .hoverParagraph {
+  display: block;
+}
+}
+.jkContainer {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 55px;
+}
+.hoverParagraph {
+  display: none;
+  background-color: rgba(0, 0, 0, 1.5);
+  color: #fff;
+  width: 320px;
+  height: 320px;
+  font-size: 54px;
+  padding-left: 1px ;
+  padding-top: 80px ;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin-top: 31px !important;
+  margin-left: -2px !important;
+  text-align: center;
+  opacity: 0.9;
+  pointer-events: none;
+  border-top-right-radius: 63px;
+  border-bottom-left-radius: 63px;
+}
+
+.jkContainer:hover .hoverParagraph {
+  display: block;
+}

@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/CASA/static/css/main.a8d06a3a.css",
-    "main.js": "/CASA/static/js/main.46f6a069.js",
-    "static/media/sdf.png": "/CASA/static/media/sdf.23884a9ab4f117bdd56f.png",
-    "static/media/Rectangle 24.png": "/CASA/static/media/Rectangle 24.403e2e40db6f87a98dc4.png",
-    "static/media/Pain.png": "/CASA/static/media/Pain.a998ebb863344f03e90b.png",
-    "static/media/Salade.png": "/CASA/static/media/Salade.b12e893776ad99270049.png",
-    "static/media/Hrissa.png": "/CASA/static/media/Hrissa.64acf4570d4529587201.png",
-    "static/media/Fromage.png": "/CASA/static/media/Fromage.d4b4c28bb58d97382967.png",
-    "static/media/Makarouna.png": "/CASA/static/media/Makarouna.43abf6012958cae3f461.png",
-    "static/media/Sardina.png": "/CASA/static/media/Sardina.16ecc59abde3b122dc5b.png",
-    "static/media/Maka.png": "/CASA/static/media/Maka.644f8cc53ad3df5a21ab.png",
-    "static/media/image 36.png": "/CASA/static/media/image 36.75eda52352d20e11afd0.png",
-    "static/media/b.png": "/CASA/static/media/b.501a314c07408ea19a5a.png",
-    "static/media/Eau.png": "/CASA/static/media/Eau.d736843ab8c3d6b47a50.png",
-    "static/media/Milk.png": "/CASA/static/media/Milk.0a79281ce13ee872204e.png",
-    "static/media/ss.png": "/CASA/static/media/ss.90d1c4d5f5c585e1fcbf.png",
-    "static/media/a.png": "/CASA/static/media/a.010709f381c0233cb510.png",
-    "static/media/Azonix.ttf": "/CASA/static/media/Azonix.ad0300b2a9b40f2d1a51.ttf",
-    "index.html": "/CASA/index.html",
-    "main.a8d06a3a.css.map": "/CASA/static/css/main.a8d06a3a.css.map",
-    "main.46f6a069.js.map": "/CASA/static/js/main.46f6a069.js.map"
+    "main.css": "/create-react-app/docs/deployment/static/css/main.f25dadcd.css",
+    "main.js": "/create-react-app/docs/deployment/static/js/main.15c843b9.js",
+    "static/media/sdf.png": "/create-react-app/docs/deployment/static/media/sdf.23884a9ab4f117bdd56f.png",
+    "static/media/Rectangle 24.png": "/create-react-app/docs/deployment/static/media/Rectangle 24.403e2e40db6f87a98dc4.png",
+    "static/media/Pain.png": "/create-react-app/docs/deployment/static/media/Pain.a998ebb863344f03e90b.png",
+    "static/media/Salade.png": "/create-react-app/docs/deployment/static/media/Salade.b12e893776ad99270049.png",
+    "static/media/Hrissa.png": "/create-react-app/docs/deployment/static/media/Hrissa.64acf4570d4529587201.png",
+    "static/media/Fromage.png": "/create-react-app/docs/deployment/static/media/Fromage.d4b4c28bb58d97382967.png",
+    "static/media/Makarouna.png": "/create-react-app/docs/deployment/static/media/Makarouna.43abf6012958cae3f461.png",
+    "static/media/Sardina.png": "/create-react-app/docs/deployment/static/media/Sardina.16ecc59abde3b122dc5b.png",
+    "static/media/Maka.png": "/create-react-app/docs/deployment/static/media/Maka.644f8cc53ad3df5a21ab.png",
+    "static/media/image 36.png": "/create-react-app/docs/deployment/static/media/image 36.75eda52352d20e11afd0.png",
+    "static/media/b.png": "/create-react-app/docs/deployment/static/media/b.501a314c07408ea19a5a.png",
+    "static/media/Eau.png": "/create-react-app/docs/deployment/static/media/Eau.d736843ab8c3d6b47a50.png",
+    "static/media/Milk.png": "/create-react-app/docs/deployment/static/media/Milk.0a79281ce13ee872204e.png",
+    "static/media/ss.png": "/create-react-app/docs/deployment/static/media/ss.90d1c4d5f5c585e1fcbf.png",
+    "static/media/a.png": "/create-react-app/docs/deployment/static/media/a.010709f381c0233cb510.png",
+    "static/media/Azonix.ttf": "/create-react-app/docs/deployment/static/media/Azonix.ad0300b2a9b40f2d1a51.ttf",
+    "index.html": "/create-react-app/docs/deployment/index.html",
+    "main.f25dadcd.css.map": "/create-react-app/docs/deployment/static/css/main.f25dadcd.css.map",
+    "main.15c843b9.js.map": "/create-react-app/docs/deployment/static/js/main.15c843b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8d06a3a.css",
-    "static/js/main.46f6a069.js"
+    "static/css/main.f25dadcd.css",
+    "static/js/main.15c843b9.js"
   ]
 }

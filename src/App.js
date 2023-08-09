@@ -24,7 +24,8 @@ function App() {
       <Router hashType="slash">
         <Routes>
           <Route
-            path="/CASA"
+            exact
+            path="/"
             element={(
               <div>
                 <Navbar />
@@ -36,9 +37,9 @@ function App() {
               </div>
             )}
           />
-          <Route path="/CASA/map" element={(<div><Navbar2 /><Mamap /></div>)} />
-          <Route path="/CASA/produit" element={(<div><Navbar2 /><Produit /></div>)} />
-          <Route path="/CASA/contact" element={(<div><Navbar2 /><Login /></div>)} />
+          <Route exact path="/map" element={(<div><Navbar2 /><Mamap /></div>)} />
+          <Route exact path="/produit" element={(<div><Navbar2 /><Produit /></div>)} />
+          <Route exact path="/contact" element={(<div><Navbar2 /><Login /></div>)} />
         </Routes>
         <Footer />
       </Router>

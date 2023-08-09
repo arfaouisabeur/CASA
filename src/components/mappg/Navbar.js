@@ -22,10 +22,10 @@ function Navbar ()  {
         
         <div class="nav-links">
             <ul>
-            <li><a href="/" >accueil</a></li>
-          <li><a href="/map" >map</a></li>
-          <li><a href="/produit" >produit</a></li>
-          <li><a href="/contact" >contact</a></li>
+            <li><a href="/CASA/#/" >accueil</a></li>
+          <li><a   href="/CASA/#/map" >map</a></li>
+          <li><a   href="/CASA/#/produit" >produit</a></li>
+          <li><a   href="/CASA/#/contact" >contact</a></li>
           
           <a class="icon">
              <CgProfile size={"2.5rem"} className='ze' />

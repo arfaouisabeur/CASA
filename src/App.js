@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Footer from './components/loadingpg/Footer';
 import Premhome from './components/loadingpg/Premhome';
 import Sechome from './components/loadingpg/Sechome';
@@ -21,10 +21,10 @@ config.autoAddCss = false;
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router hashType="slash">
         <Routes>
           <Route
-            path="/"
+            path="/CASA"
             element={(
               <div>
                 <Navbar />
@@ -36,9 +36,9 @@ function App() {
               </div>
             )}
           />
-          <Route path="/map" element={(<div><Navbar2 /><Mamap /></div>)} />
-          <Route path="/produit" element={(<div><Navbar2 /><Produit /></div>)} />
-          <Route path="/contact" element={(<div><Navbar2 /><Login /></div>)} />
+          <Route path="/CASA/map" element={(<div><Navbar2 /><Mamap /></div>)} />
+          <Route path="/CASA/produit" element={(<div><Navbar2 /><Produit /></div>)} />
+          <Route path="/CASA/contact" element={(<div><Navbar2 /><Login /></div>)} />
         </Routes>
         <Footer />
       </Router>

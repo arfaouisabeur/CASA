@@ -9,7 +9,7 @@ function MenuItem({ image, name, price }) {
   };
 
   const decrement = () => {
-    if(count!=0){
+    if(count!==0){
     setCount(count - 1);
   }
   };
